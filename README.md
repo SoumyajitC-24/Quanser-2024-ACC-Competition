@@ -11,7 +11,7 @@ This repository contains  codes for Quanser 2024 ACC Self Driving Car Competiito
     
 2) run the following command to install all the libraries
 ```
-pip install requirements.txt
+  pip install requirements.txt
 
 ```
 
