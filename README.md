@@ -15,7 +15,7 @@ pip install requirements.txt
 
 ```
 
-3)To initialize the environment and the traffic lights
+3) To initialize the environment and the traffic lights
 ```
 python Setup_Competition.py
 
