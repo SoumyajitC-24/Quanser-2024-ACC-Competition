@@ -30,4 +30,4 @@ python main.py
 ```
 
 
-Link to the video [![Presentation](https://www.youtube.com/watch?v=iuPs5BPgbCI&feature=youtu.be)](https://www.youtube.com/watch?v=iuPs5BPgbCI&feature=youtu.be).
+Link to the video [![Presentation](https://youtu.be/vJaUwUCT1uM)](https://youtu.be/vJaUwUCT1uM).
