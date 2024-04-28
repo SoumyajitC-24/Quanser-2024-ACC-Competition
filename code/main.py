@@ -1,8 +1,6 @@
 
 # -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
-#--------imports------------
-
 """
 Main code for Vehicle Control, Traffic Sign and Traffic Light Detection
 """
